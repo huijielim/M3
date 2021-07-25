@@ -1,4 +1,4 @@
-# M3.github.io
+### M3.github.io
 This module covers the Mental Model of Computing Operations; 
 
 Activities Covered includes;
