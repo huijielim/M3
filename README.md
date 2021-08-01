@@ -1,4 +1,4 @@
-# M3.github.io
+# M3
 This module covers the Mental Model of Computing Operations; 
 
 Activities Covered includes;
@@ -7,6 +7,3 @@ Activities Covered includes;
 - Big bang exercise > to create multiple balls pushed in multiple directions
 
 
-#test 
-
-# test 2 
